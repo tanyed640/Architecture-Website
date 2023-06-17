@@ -1,19 +1,6 @@
 # Welcome 🖐 to the Architecture Website Template
 It is a simple static Architecture Website Template.
 
-## Have a look 
-`HomePage`
-![HomePage](images/homepage.png)
-
-`About`
-![HomePage](images/about.png)
-
-`projects`
-![HomePage](images/projects.png)
-
-`contact`
-![HomePage](images/contact.png)
-
 ## 💻Tech Stack
 <br>
 
